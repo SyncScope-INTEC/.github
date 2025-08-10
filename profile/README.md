@@ -51,10 +51,6 @@ SyncScope follows a **Service-Based Architecture (SBA)** pattern, designed for s
 - **Monitoring**: Prometheus, Grafana, ELK Stack
 - **Message Queue**: Apache Kafka
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Team
 
 SyncScope is developed as part of the Software Engineering program at Instituto Tecnológico de Santo Domingo (INTEC).
